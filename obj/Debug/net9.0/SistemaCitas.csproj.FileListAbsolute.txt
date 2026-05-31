@@ -1,0 +1,14 @@
+C:\Users\welin\Documents\Proyectos\Academicos\P2\Sistema_Citas\bin\Debug\net9.0\SistemaCitas.exe
+C:\Users\welin\Documents\Proyectos\Academicos\P2\Sistema_Citas\bin\Debug\net9.0\SistemaCitas.deps.json
+C:\Users\welin\Documents\Proyectos\Academicos\P2\Sistema_Citas\bin\Debug\net9.0\SistemaCitas.runtimeconfig.json
+C:\Users\welin\Documents\Proyectos\Academicos\P2\Sistema_Citas\bin\Debug\net9.0\SistemaCitas.dll
+C:\Users\welin\Documents\Proyectos\Academicos\P2\Sistema_Citas\bin\Debug\net9.0\SistemaCitas.pdb
+C:\Users\welin\Documents\Proyectos\Academicos\P2\Sistema_Citas\obj\Debug\net9.0\SistemaCitas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\welin\Documents\Proyectos\Academicos\P2\Sistema_Citas\obj\Debug\net9.0\SistemaCitas.AssemblyInfoInputs.cache
+C:\Users\welin\Documents\Proyectos\Academicos\P2\Sistema_Citas\obj\Debug\net9.0\SistemaCitas.AssemblyInfo.cs
+C:\Users\welin\Documents\Proyectos\Academicos\P2\Sistema_Citas\obj\Debug\net9.0\SistemaCitas.csproj.CoreCompileInputs.cache
+C:\Users\welin\Documents\Proyectos\Academicos\P2\Sistema_Citas\obj\Debug\net9.0\SistemaCitas.dll
+C:\Users\welin\Documents\Proyectos\Academicos\P2\Sistema_Citas\obj\Debug\net9.0\refint\SistemaCitas.dll
+C:\Users\welin\Documents\Proyectos\Academicos\P2\Sistema_Citas\obj\Debug\net9.0\SistemaCitas.pdb
+C:\Users\welin\Documents\Proyectos\Academicos\P2\Sistema_Citas\obj\Debug\net9.0\SistemaCitas.genruntimeconfig.cache
+C:\Users\welin\Documents\Proyectos\Academicos\P2\Sistema_Citas\obj\Debug\net9.0\ref\SistemaCitas.dll
